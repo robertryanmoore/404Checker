@@ -1,0 +1,38 @@
+http://teach4theheart.com/2014/09/01/50-best-websites-for-teachers/  URL appears to be good.
+http://www.roythezebra.com/index.html   URL appears to be good.
+http://busyteacher.org/   URL appears to be good.
+http://www.abcteach.com/directory_home.php   URL appears to be good.
+http://mylanguages.org/learn_afrikaans.php   URL appears to be good.
+http://www.arcademicskillbuilders.com/   URL appears to be good.
+http://www.topmarks.co.uk/   URL appears to be good.
+http://www.sheppardsoftware.com/grammar/grammar_tutorial.htm   URL appears to be good.
+http://www.topmarks.co.uk/english-games/7-11-years/spelling-and-grammar   URL appears to be good.
+http://www.bbc.co.uk/education   URL appears to be good.
+http://www.bbc.co.uk/scotland/education/health/feelings/   URL appears to be good.
+http://www.bbc.co.uk/bitesize/ks1/maths/telling_the_time/play/   Broken- Other error: The request was aborted: The connection was closed unexpectedly.
+http://www.sheppardsoftware.com/math.htm   URL appears to be good.
+http://www.sheppardsoftware.com/preschool/preschool.htm   Broken- Other error: The operation has timed out
+http://www.seussville.com/   URL appears to be good.
+http://www.ecokids.ca/pub/index.cfm   Broken- Other error: The request was aborted: The connection was closed unexpectedly.
+http://www.cocoon.org/index.shtml   Broken- Other error: The remote server returned an error: (404) Not Found.
+http://www.sciencekids.co.nz/gamesactivities.html   URL appears to be good.
+http://drawisland.com/   URL appears to be good.
+http://www.vrml.k12.la.us/curriculum/quicktip/science/plants/plants.htm   Broken- Other error: Unable to connect to the remote server
+https://learnzillion.com/resources/39149-writealong   URL appears to be good.
+https://edpuzzle.com/  URL appears to be good.
+http://www.edhelper.com/  URL appears to be good.
+http://www.sciencekids.co.nz/  URL appears to be good.
+http://www.fernsmithsclassroomideas.com/  URL appears to be good.
+http://www.coolmath4kids.com/  URL appears to be good.
+http://www.snappymaths.com/  URL appears to be good.
+http://www.jumpstart.com/  URL appears to be good.
+http://www.turtlediary.com/  URL appears to be good.
+http://www.ictgames.com/resources.html  URL appears to be good.
+http://www.studenthandouts.com/  URL appears to be good.
+http://www.technokids.com/  URL appears to be good.
+http://www.tes.co.uk/teaching-resources/  Broken- Other error: The remote server returned an error: (403) Forbidden.
+http://www.kleuters.co.za/index.php  URL appears to be good.
+http://mylanguages.org/learn_afrikaans.php  URL appears to be good.
+http://www.mathcats.com/#contents  URL appears to be good.
+http://www.mathplayground.com/index.html  URL appears to be good.
+http://easymapwork.blogspot.sg/  URL appears to be good.
